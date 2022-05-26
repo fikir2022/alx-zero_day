@@ -1,2 +1,1 @@
-# This is the project about a repository to show how to use git and github
-This includes creating a repository called *alx-zero_day* and showing how to push,pull,branch etc... 
+My first readme
