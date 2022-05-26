@@ -1,1 +1,2 @@
-My first readme
+# This project is about a repository to show how to use git ang github
+This include creating a repositiry called *alx-zero_day* and use it to show how to push,pull,branch etc...
